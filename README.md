@@ -21,8 +21,8 @@ Git (for cloning the repository)
 #### Installation
 
 1. Clone the repository:
-   `git clone https://github.com/Ambitious905837/NFT.git`
-2. `cd NFT`
+   `git clone https://github.com/NinjaKu8/NFT-Frontend-Test.git`
+2. `cd NFT-Frontend-Test`
 
 3. Install the dependencies:
 
@@ -32,11 +32,16 @@ Git (for cloning the repository)
 
 #### Running the Application
 
-To run the application in the development mode, use:
-`npm run dev`
-or if you are using Yarn:
-`yarn dev`
+- To run the application in the development mode, use:
+  `npm run dev`
+
+- To run the application in the production mode, use:
+  `npm run build`
+  and then `npm run preview`
+
 Open http://localhost:5173 to view it in the browser.
+
+**You can use the following EOS account names to test: `womplayextra`, `wombatmaster`, `wombatpromo1`**
 
 #### Testing the Application
 
